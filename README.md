@@ -59,6 +59,7 @@ Note for task 1, task 2 inmplemetation in order
 3. inputs?
 4. ouputs?
 # Comparision running time in task1 between Windows and Ubuntu
-![image](https://github.com/tvdat20004/Task1-2_Cryptography_NT219.O11.ANTN/assets/117071011/2b53e69d-5258-460b-8c2c-2375c20522d0)
-![image](https://github.com/tvdat20004/Task1-2_Cryptography_NT219.O11.ANTN/assets/117071011/22a207f2-4bec-4138-ad27-95212467d75a)
+![image](https://github.com/tvdat20004/Task1-2_Cryptography_NT219.O11.ANTN/assets/117071011/a6f72646-996f-4ffe-85ff-f77ef4c17441)
+
+![image](https://github.com/tvdat20004/Task1-2_Cryptography_NT219.O11.ANTN/assets/117071011/bf93fb37-b9cc-4d2c-9f15-665a0b03f847)
 
