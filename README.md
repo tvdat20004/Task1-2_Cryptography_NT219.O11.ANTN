@@ -6,12 +6,15 @@ A. Required:
 +) Mode of operations:
   - Select mode from screen (using switch case)
   - Support modes:  ECB, CBC, OFB, CFB, CTR, XTS, CCM, GCM.
+
 +) separate encryption function from decryption function:
 
    Select from screen (using switch case)
+   
 +) inputs:
   - Secret key,  Initialization Vector IV, and nonce,..
   - Select from screen (using switch case)
+
   Case 1: Secret key and IV are randomly chosen for each run time using random generator using CryptoPP::AutoSeededRandomPool;
   
   Case 2: Input Secret Key and IV from screen
